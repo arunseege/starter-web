@@ -12,3 +12,6 @@ Sample website with plenty of files for demos. The purpose is to demo git and gi
 ## Deployment
 
 ## How To  Contribute
+
+###Copyright
+2014 git.Training.
